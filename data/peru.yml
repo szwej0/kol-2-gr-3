@@ -3,6 +3,6 @@
 # lista rzek
 #
 
-- { name: "Mantaro", lenght: 3465 }
-- { name: "Napo", lenght: 1765 }
-- { name: "Rimac", lenght: 9234 }
+- { name: "Mantaro", length: 3465 }
+- { name: "Napo", length: 1765 }
+- { name: "Rimac", length: 9234 }
