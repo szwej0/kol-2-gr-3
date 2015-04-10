@@ -1,0 +1,8 @@
+#
+# Klasa: Rzeki Peru
+# lista rzek
+#
+
+- { name: "Mantaro", length: 3465 }
+- { name: "Napo", length: 1765 }
+- { name: "Rimac", length: 9234 }
