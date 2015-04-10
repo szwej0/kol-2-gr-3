@@ -5,12 +5,12 @@ namespace AppBundle\Entity;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
- * Hungary
+ * Anglia
  *
  * @ORM\Table()
  * @ORM\Entity
  */
-class Hungary
+class Anglia
 {
     /**
      * @var integer
@@ -31,9 +31,9 @@ class Hungary
     /**
      * @var integer
      *
-     * @ORM\Column(name="length", type="integer")
+     * @ORM\Column(name="depth", type="integer")
      */
-    private $population;
+    private $depth;
 
 
     /**
@@ -50,7 +50,7 @@ class Hungary
      * Set name
      *
      * @param string $name
-     * @return name
+     * @return Anglia
      */
     public function setName($name)
     {
@@ -70,25 +70,25 @@ class Hungary
     }
 
     /**
-     * Set population
+     * Set depth
      *
-     * @param integer $population
-     * @return Population
+     * @param integer $depth
+     * @return Anglia
      */
-    public function setPopulation($population)
+    public function setDepth($depth)
     {
-        $this->population = $population;
+        $this->depth = $depth;
 
         return $this;
     }
 
     /**
-     * Get population
+     * Get depth
      *
      * @return integer 
      */
-    public function getPopulation()
+    public function getDepth()
     {
-        return $this->population;
+        return $this->depth;
     }
 }
