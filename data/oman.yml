@@ -1,0 +1,8 @@
+#
+# Klasa: River
+# lista rzek
+#
+
+- { name: "Angol", length: 1234 }
+- { name: "The Tomas", length: 9876 }
+- { name: "Barry", length: 3434 }
