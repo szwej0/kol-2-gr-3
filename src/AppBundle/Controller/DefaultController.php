@@ -47,16 +47,7 @@ class DefaultController extends Controller
     /* N */
 
     /* O */
-   
-    /**
-     * @Route("/oman.html", name="oman")
-     */
-    public function omanAction()
-    {
-        return $this->render('default/oman.html.twig');
-    }
-    
-    
+
     /* P */
     
     /**
