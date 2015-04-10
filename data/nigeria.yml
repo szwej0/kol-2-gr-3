@@ -3,6 +3,6 @@
 # lista rzek
 #
 
-- { name: "Niger", length: 1234 }
-- { name: "Benue", length: 9876 }
-- { name: "Alamakota", length: 3434 }
+- { name: "Niger", depth: 1234 }
+- { name: "Benue", depth: 9876 }
+- { name: "Alamakota", depth: 3434 }
