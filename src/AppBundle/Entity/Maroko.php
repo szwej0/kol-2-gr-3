@@ -31,7 +31,7 @@ class Maroko
     /**
      * @var integer
      *
-     * @ORM\Column(name="$depth", type="integer")
+     * @ORM\Column(name="depth", type="integer")
      */
     private $depth;
 
