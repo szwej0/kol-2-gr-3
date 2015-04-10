@@ -9,7 +9,7 @@ use Symfony\Component\Yaml\Yaml;
 
 use AppBundle\Entity\Francja;
 
-class LoadHungary implements FixtureInterface
+class LoadFrancja implements FixtureInterface
 {
     /**
      * {@inheritDoc}

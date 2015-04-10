@@ -15,7 +15,7 @@ class MyFrancjaController extends Controller
     {
         $em = $this->getDoctrine()->getManager();
 
-        $entities = $em->getRepository('AppBundle:francja')->findAll();
+        $entities = $em->getRepository('AppBundle:Francja')->findAll();
 
         return $this->render(
             'default/francja.html.twig',
