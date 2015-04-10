@@ -1,2 +1,8 @@
-## YAML Template.
----
+#
+# Klasa: Kazachstan
+# rzeki
+#
+
+- { name: "Uba", depth: 1234 }
+- { name: "Lepsy", depth: 9876 }
+- { name: "Nura", depth: 3434 }
