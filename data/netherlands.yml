@@ -1,0 +1,8 @@
+#
+# Klasa: Netherlands
+# lista rzek
+#
+
+- { name: "Geul", depth: 4 }
+- { name: "Jeker", depth: 3 }
+- { name: "Wurm", depth: 5 }
