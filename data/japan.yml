@@ -3,6 +3,6 @@
 # rivers in japan
 #
 
-- { name: "Teshio", length: 3 }
-- { name: "Tone", length: 4 }
-- { name: "Hannoki", length: 5 }
+- { name: "Teshio", depth: 3 }
+- { name: "Tone", depth:: 4 }
+- { name: "Hannoki", depth: 5 }
