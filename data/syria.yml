@@ -1,6 +1,6 @@
 #
-#Klasa: Syria
-#rivers in Syria
+#Klasa: syria
+#rivers in syria
 #
 - { name: "Eufrat", depth: 1234 }
 - { name: "Nahr al-Chabur", depth: 5678 }
