@@ -1,0 +1,8 @@
+#
+# Klasa: Maroko
+# lista rzek
+#
+
+- { name: "Melwiyya", depth: 10 }
+- { name: "Wergha", depth: 32 }
+- { name: "Oued Oum er Rbia", depth: 4 }
