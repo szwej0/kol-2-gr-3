@@ -1,0 +1,8 @@
+#
+# Klasa: Greece
+# lista rzek w Grecji
+#
+
+- { name: "Alfios", depth: 123 }
+- { name: "Arda", depth: 456 }
+- { name: "Marica", depth: 789 }
