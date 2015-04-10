@@ -1,0 +1,8 @@
+#
+# Klasa: Japan
+# rivers in japan
+#
+
+- { name: "Teshio", depth: 3 }
+- { name: "Tone", depth:: 4 }
+- { name: "Hannoki", depth: 5 }
