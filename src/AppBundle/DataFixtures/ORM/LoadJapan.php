@@ -7,9 +7,9 @@ use Doctrine\Common\Persistence\ObjectManager;
 
 use Symfony\Component\Yaml\Yaml;
 
-use AppBundle\Entity\litwa;
+use AppBundle\Entity\Japan;
 
-class Loadlitwa implements FixtureInterface
+class LoadJapan implements FixtureInterface
 {
     /**
      * {@inheritDoc}
@@ -17,13 +17,13 @@ class Loadlitwa implements FixtureInterface
     public function load(ObjectManager $manager)
     {
 
-        $filename = __DIR__ . '/../../../../data/litwa.yml';
+        $filename = __DIR__ . '/../../../../data/japan.yml';
         $yml = Yaml::parse(file_get_contents($filename));
         foreach ($yml as $item) {
-            $litwa = new litwa();
-            $litwa->setName($item['name']);
-            $litwa->setpopulation($item['population']);
-            $manager->persist($litwa);
+            $japan = new Japan();
+            $japan->setName($item['name']);
+            $japan->setDepth($item['depth']);
+            $manager->persist($japan);
         }
 
         $manager->flush();
