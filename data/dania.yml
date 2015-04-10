@@ -1,0 +1,7 @@
+#
+# Klasa: Dania
+# glebokosc rzek
+#
+- { name: "Gudenå", depth: 234 }
+- { name: "Skjern Å", depth: 876 }
+- { name: "Vidå", depth: 434 }
