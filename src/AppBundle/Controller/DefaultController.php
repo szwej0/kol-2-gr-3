@@ -53,13 +53,7 @@ class DefaultController extends Controller
     /* Q */
 
     /* R */
-    /**
- * @Route("/romania.html", name="romania")
- */
-public function romaniaAction()
-{
-    return $this->render('default/romania.html.twig');
-}
+
     /* S */
 
     /* T */
