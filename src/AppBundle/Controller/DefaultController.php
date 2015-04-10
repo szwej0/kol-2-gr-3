@@ -43,13 +43,7 @@ class DefaultController extends Controller
     /* L */
 
     /* M */
-        /**
-        * @Route("/maroko.html", name="maroko")
-        */
-       public function marokoAction()
-       {
-           return $this->render('default/maroko.twig');
-       }
+
     /* N */
 
     /* O */
