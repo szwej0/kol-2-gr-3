@@ -1,3 +1,5 @@
+Feature: Fikstury dla tabeli    
+
   Scenario: Lista fixtur z tabeli river
     Given I am on "oman.html"
      Then I should see "Angol"
