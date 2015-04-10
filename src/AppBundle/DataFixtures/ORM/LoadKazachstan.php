@@ -22,7 +22,7 @@ class LoadKazachstan implements FixtureInterface
         foreach ($yml as $item) {
             $kazachstan = new Kazachstan();
             $kazachstan->setName($item['name']);
-            $kazachstan->setLength($item['depth']);
+            $kazachstan->setDepth($item['depth']);
             $manager->persist($kazachstan);
         }
 
