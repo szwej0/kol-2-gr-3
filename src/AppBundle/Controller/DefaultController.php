@@ -49,14 +49,6 @@ class DefaultController extends Controller
     /* O */
 
     /* P */
-    
-    /**
-     * @Route("/peru.html", name="peru")
-     */
-    public function peruAction()
-    {
-        return $this->render('default/peru.html.twig');
-    }
 
     /* Q */
 
