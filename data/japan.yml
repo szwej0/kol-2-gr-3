@@ -1,0 +1,8 @@
+#
+# Klasa: Japan
+# rivers in japan
+#
+
+- { name: "Teshio", length: 3 }
+- { name: "Tone", length: 4 }
+- { name: "Hannoki", length: 5 }
