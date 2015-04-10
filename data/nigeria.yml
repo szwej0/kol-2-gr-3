@@ -1,0 +1,8 @@
+#
+# Klasa: Nigeria
+# lista rzek
+#
+
+- { name: "Niger", length: 1234 }
+- { name: "Benue", length: 9876 }
+- { name: "Alamakota", length: 3434 }
