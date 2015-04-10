@@ -1,4 +1,4 @@
-Feature: Fikstury dla tabeli Ireland
+Feature: Fikstury dla tabeli Syria
 
   Scenario: Lista fixtur z tabeli Ocean
     Given I am on homepage
