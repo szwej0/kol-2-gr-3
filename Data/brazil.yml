@@ -1,0 +1,8 @@
+#
+# Klasa: Brazil
+# lista rzek
+#
+
+- { name: "Amazon", depth: 4 }
+- { name: "Cafundo", depth: 3 }
+- { name: "Cao", depth: 5 }
