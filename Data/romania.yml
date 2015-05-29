@@ -1,0 +1,8 @@
+#
+# Klasa: Romania
+# lista rzek
+#
+
+- { name: "Danube", depth: 123 }
+- { name: "Olt", depth: 456 }
+- { name: "Siret", depth: 789 }
